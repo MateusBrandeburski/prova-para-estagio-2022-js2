@@ -4,7 +4,7 @@ const app = express()
 
 app.listen('3000')
 
-//middleware
-app.use(express.json())
+app.route('/').get((req,res) => res.send(req.query))
 
-app.route('/').post((req, res) => res.send(req.body))
+app.route('/dashcommerce').get((req,res) => res.send(req.query))
+
