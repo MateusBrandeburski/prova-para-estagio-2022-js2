@@ -1,7 +1,6 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "start node index"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatakaeBR/pova-para-estagio-julho-2022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TatakaeBR/pova-para-estagio-julho-2022/issues"
+  },
+  "homepage": "https://github.com/TatakaeBR/pova-para-estagio-julho-2022#readme",
+  "description": ""
 }
