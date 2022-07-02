@@ -4,16 +4,16 @@ const app = express()
 
 app.listen('3000')
 
-app.route('/exercicio').get((req, res) => {
+app.route('/dashcommercetest').get((req, res) => {
 
     const username = req.query.user
     const password = req.query.password
 
-    if (username === 'nome' && password === '123'){
-        return res.json({ mensagem: `Meu nome completo é ${username}.` })
+    if (username === 'dashcommerce' && password === 'chooseMe'){
+        return res.json({ mensagem: `My full name is Mateus Brandeburski Ramos. I want this job!` })
 
     } else {
-        return res.json({ mensagem: `Credenciais inválidas.` })
+        return res.json({ mensagem: `Wrong credentials.` })
     }
 })
 
