@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "start node index"
+    "start": "start node index"
   },
   "keywords": [],
   "author": "Mateus Brandeburski",

@@ -18,4 +18,3 @@ app.route('/dashcommercetest').get((req, res) => {
         return res.json({ mensagem: `Wrong credentials.` })
     }
 })
-
