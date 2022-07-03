@@ -24,15 +24,15 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 
 ## Acesso ao projeto:
 
-https://prova-estagio-2022.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe  
-  
-  
-https://prova-estagio-2022.herokuapp.com/dashcommercetest?u  
  
 ## Como Executar o projeto:
   Ao digitar no navegador o parâmetro **?user=dashcommerce&password=chooseMe** o Web Service deve retornar: *{"mensagem":"My full name is Mateus Brandeburski Ramos. I want this job!"}*
   
+Exemplo: https://pova-para-estagio-2022-js2.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe4
+  
   Caso seja digitado qualquer outra coisa depois do parâmetro, ele deve retornar: *{"mensagem":"Wrong credentials."}*
+
+Exemplo: https://pova-para-estagio-2022-js2.herokuapp.com/dashcommercetest
   
 ## Ferramentas Utilizadas:
 
