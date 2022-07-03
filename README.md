@@ -54,5 +54,5 @@ Ao todo, foram mais de 29.2 horas líquidas dedicadas ao projeto. Eu usei o mét
 </div>
 
 ## Desenvolvedor
-| [<img src="https://user-images.githubusercontent.com/102932581/177051558-31499416-a0cf-4495-8ab7-409dabca514f.jpg" width=115><br><br><sub>MAteus Brandeurski Ramos</sub>](https://github.com/TatakaeBR) |
+| [<img src="https://user-images.githubusercontent.com/102932581/177051558-31499416-a0cf-4495-8ab7-409dabca514f.jpg" width=115><br><br><sub>Mateus Brandeurski Ramos</sub>](https://github.com/TatakaeBR) |
 | :---: |
