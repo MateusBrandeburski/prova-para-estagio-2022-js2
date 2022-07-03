@@ -21,3 +21,15 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 <img src="https://user-images.githubusercontent.com/102932581/177048927-e7315f47-b4fd-4f24-91e0-28711471be44.gif" width="1000px" />
 </div>
 
+## Ferramentas Utilizadas:
+
+| Node.JS | Visual Studio Code | Heroko | Git Bash |
+|---------|--------------------|--------|----------|
+ <p float="left">
+  <img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width="50" />
+  <img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width="40" /> 
+  <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width="50" />
+  <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width="50" />
+</p>
+
+
