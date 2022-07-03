@@ -33,6 +33,10 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
   <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width="50" />
 </p>
 
+## Acesso ao projeto:
+
+https://prova-estagio-2022.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe
+
 ## Considerações Finais:
 
 Esse teste foi um desafio para mim. Tive de enteder do zero a como contruir uma API, começando do mais básico:
