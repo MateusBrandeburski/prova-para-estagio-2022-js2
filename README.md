@@ -21,14 +21,11 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 <img src="https://user-images.githubusercontent.com/102932581/177048927-e7315f47-b4fd-4f24-91e0-28711471be44.gif" width="1000px" />
 </div>
 
-
-## Acesso ao projeto:
-
  
 ## Como Executar o projeto:
   Ao digitar no navegador o parâmetro **?user=dashcommerce&password=chooseMe** o Web Service deve retornar: *{"mensagem":"My full name is Mateus Brandeburski Ramos. I want this job!"}*
   
-Exemplo: https://pova-para-estagio-2022-js2.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe4
+Exemplo: https://pova-para-estagio-2022-js2.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe
   
   Caso seja digitado qualquer outra coisa depois do parâmetro, ele deve retornar: *{"mensagem":"Wrong credentials."}*
 
