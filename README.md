@@ -23,15 +23,8 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 
 ## Ferramentas Utilizadas:
 
- 
-| Node.JS | Visual Studio Code | Heroko | Git Bash |
-|---------|--------------------|--------|----------| 
- <p float="left">
-  <img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width="50" />
-  <img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width="40" /> 
-  <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width="50" />
-  <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width="50" />
-</p>
+| <img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width=115><br><sub>Node.JS>|  <img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width=115><br><sub>Heroku</sub>|  <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width=115><br><sub>Visual Studio</sub>| <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width=115><br><sub>Git Bash</sub>|
+| :---: | :---: | :---: | :---: |
 
 ## Acesso ao projeto:
 
@@ -63,10 +56,3 @@ Ao todo, foram mais de 29.2 horas líquidas dedicadas ao projeto. Eu usei o mét
 ## Desenvolvedor
 | [<img src="https://user-images.githubusercontent.com/102932581/177051558-31499416-a0cf-4495-8ab7-409dabca514f.jpg" width=115><br><br><sub>MAteus Brandeurski Ramos</sub>](https://github.com/TatakaeBR) |
 | :---: |
-
-
-| [<img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width=115><br><sub>Node.JS>]|  [<img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width=115><br><sub>Heroku</sub>]|  [<img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width=115><br><sub>Visual Studio</sub>]| [<img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width=115><br><sub>Git Bash</sub>]|
-| :---: | :---: | :---: | :---: |
-
-
-
