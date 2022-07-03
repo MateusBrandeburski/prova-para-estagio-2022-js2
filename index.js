@@ -17,5 +17,5 @@ app.route('/dashcommercetest').get((req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Server online!');
+    console.log('Contacted Server!');
 });
