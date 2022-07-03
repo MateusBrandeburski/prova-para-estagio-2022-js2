@@ -23,13 +23,35 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 
 ## Ferramentas Utilizadas:
 
+ 
 | Node.JS | Visual Studio Code | Heroko | Git Bash |
-|---------|--------------------|--------|----------|
+|---------|--------------------|--------|----------| 
  <p float="left">
   <img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width="50" />
   <img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width="40" /> 
   <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width="50" />
   <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width="50" />
 </p>
+
+## Considerações Finais:
+
+Esse teste foi um desafio para mim. Tive de enteder do zero a como contruir uma API, começando do mais básico:
+
+* O que é um Web Servece 
+* GET, POST, DELETE, PUT...
+* Como funciona o Express
+* Criar um server
+* Params Query, Route, Body...
+* Git Bash
+
+Apesar do teste não usar outro parêmetros além do query, foi necessario passar por alguns outros afim de entender como um todo o processo. Depois que eu entendi que a URL utilizava *query params*, precisei entender como fazer o parâmetro se comportar como uma variável. Como eu tinha feito Lógica de programação e Algoritmo em Python, eu sabia que era uma estrutura condicional que precisava ser feita.
+
+Depois de tudo feito, chegou a hora de fazer o deploy. Porém, toda vez que eu subia o repositório no Heraku, ele não funcionava. Tive que ver diversos vídeos, pesquisar no Google, ver em Fóruns, entrar em canais de desenvolvedores do Discord e perguntar, etc. Até que eu percebi que todo o problema, era que eu não tinha criado um **.gitignore** e toda vez que eu atualizada o projeto com o git bash, ele subia a pasta *node_module*. Depois de resolvido esse problema, obtive exito em subir o projeto no Heroku.
+
+Ao todo, foram mais de 29.3 hras
+
+
+
+
 
 
