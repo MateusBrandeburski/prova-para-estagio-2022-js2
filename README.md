@@ -15,3 +15,9 @@ A execução do projeto ajuda o estudante de prograação entender como a aplica
 
 O URL ultiliza Query Params, sendo que os parâmetros foram programados para responder como variáveis. Essas variáveis responde a uma estrutura condicional. Se o parâmetro digitado correnpoder a **true**, o navegador responderá com uma mensagem no formato JSON. Se o parâmetro for **false**, o nevegador resonderá com outra mensagem no formato JSON.
 
+## Aplicação:
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/177048927-e7315f47-b4fd-4f24-91e0-28711471be44.gif" width="1000px" />
+</div>
+
