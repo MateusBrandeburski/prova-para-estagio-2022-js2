@@ -32,6 +32,12 @@ https://prova-estagio-2022.herokuapp.com/dashcommercetest?user=dashcommerce&pass
   
   
 https://prova-estagio-2022.herokuapp.com/dashcommercetest?u  
+ 
+## Como Executar o projeto:
+  Ao digitar no navegador o parâmetro **?user=dashcommerce&password=chooseMe** o Web Service deve retornar: *{"mensagem":"My full name is Mateus Brandeburski Ramos. I want this job!"}*
+  
+  Caso seja digitado qualquer outra coisa depois do parâmetro, ele deve retornar: *{"mensagem":"Wrong credentials."}*
+  
 ## Considerações Finais:
 
 Esse teste foi um desafio para mim. Tive de enteder do zero a como contruir uma API, começando do mais básico:
