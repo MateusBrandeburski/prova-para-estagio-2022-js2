@@ -48,9 +48,13 @@ Apesar do teste não usar outro parêmetros além do query, foi necessario passa
 
 Depois de tudo feito, chegou a hora de fazer o deploy. Porém, toda vez que eu subia o repositório no Heraku, ele não funcionava. Tive que ver diversos vídeos, pesquisar no Google, ver em Fóruns, entrar em canais de desenvolvedores do Discord e perguntar, etc. Até que eu percebi que todo o problema, era que eu não tinha criado um **.gitignore** e toda vez que eu atualizada o projeto com o git bash, ele subia a pasta *node_module*. Depois de resolvido esse problema, obtive exito em subir o projeto no Heroku.
 
-Ao todo, foram mais de 29.3 hras
+Ao todo, foram mais de 29.3 horas líquidas dedicadas ao projeto. Eu usei o método pomodoro, estudo focado por 25 minutos e 5 minutos relaxando, sendo que só são computadas as horas de estudo focado. 
 
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/177045406-52ad88f8-94f3-4cf1-973c-31f7f95a02d6.jpg" width="1000px" />
+</div>
 
 
 
