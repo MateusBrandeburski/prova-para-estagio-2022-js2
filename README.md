@@ -21,10 +21,6 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 <img src="https://user-images.githubusercontent.com/102932581/177048927-e7315f47-b4fd-4f24-91e0-28711471be44.gif" width="1000px" />
 </div>
 
-## Ferramentas Utilizadas:
-
-| <img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width=115><br><sub>Node.JS|  <img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width=115><br><sub>Heroku</sub>|  <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width=115><br><sub>Visual Studio</sub>| <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width=115><br><sub>Git Bash</sub>|
-| :---: | :---: | :---: | :---: |
 
 ## Acesso ao projeto:
 
@@ -37,6 +33,12 @@ https://prova-estagio-2022.herokuapp.com/dashcommercetest?u
   Ao digitar no navegador o parâmetro **?user=dashcommerce&password=chooseMe** o Web Service deve retornar: *{"mensagem":"My full name is Mateus Brandeburski Ramos. I want this job!"}*
   
   Caso seja digitado qualquer outra coisa depois do parâmetro, ele deve retornar: *{"mensagem":"Wrong credentials."}*
+  
+## Ferramentas Utilizadas:
+
+| <img src="https://user-images.githubusercontent.com/102932581/177049031-61ab3a9c-8a37-40fb-b48e-9a90d7017560.png" width=115><br><sub>Node.JS|  <img src="https://user-images.githubusercontent.com/102932581/177049037-f19854ad-7ffc-4d01-8a4b-7d0545d8919f.png" width=115><br><sub>Heroku</sub>|  <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width=115><br><sub>Visual Studio</sub>| <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width=115><br><sub>Git Bash</sub>|
+| :---: | :---: | :---: | :---: |
+
   
 ## Considerações Finais:
 
