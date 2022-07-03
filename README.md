@@ -5,34 +5,9 @@
 <h1 align="center"> Projeto para Teste de Estágio  </h1>
 
 
-## Índice 
+## Descrição do Projeto:
 
-* [Projeto Proposto](#Título-e-Imagem-de-capa)
-* [Plano de Execução](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
-## Projeto Proposto:
-
-Desenvolver um Web Service que use a tecnologia REST. Hospedar esse serviço em algum servidor. Utilizadno PHP ou Javascript para programar.
-Esse Service deve aguardar uma solicitação GET, usando os seguinte nome e senha como parâmetro: 
-
-user:"dashcommerce"
-
-password:"chooseMe"
-
-O aplicativo deve retornar o seguinde JSON se os parâmetros estiverem corretos: "mensagem":"My full name is Mateus Brandeburski Ramos. I want this job!"
-
-Se as credenciais estiverem erradas ou a solicitação não tiver parâmeroos
-
+O projeto desenvolvido faz parte do teste da empresa DashCommerce, para estagiário de desenvolvedor FullStack. O Web Servece é um projeto que ajudo a estudande a entender os mecanismos básicos de uma API.
 
 
 
