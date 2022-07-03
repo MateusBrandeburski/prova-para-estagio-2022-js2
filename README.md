@@ -13,7 +13,7 @@ A execução do projeto ajuda o estudante de programação entender como a aplic
 
 ## Funcionalidades:
 
-O URL ultiliza Query Params, sendo que os parâmetros foram programados para responder como variáveis. Essas variáveis respondem a uma estrutura condicional. Se o parâmetro digitado correnpoder a **true**, o navegador responderá com uma mensagem no formato JSON. Se o parâmetro for **false**, o nevegador resonderá com outra mensagem no formato JSON.
+O URL ultiliza Query Params, sendo que os parâmetros foram programados para responder como variáveis. Essas variáveis respondem a uma estrutura condicional. Se o parâmetro digitado correspoder a **true**, o navegador responderá com uma mensagem no formato JSON. Se o parâmetro for **false**, o nevegador resonderá com outra mensagem no formato JSON.
 
 ## Aplicação:
 
