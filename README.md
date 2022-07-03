@@ -28,8 +28,10 @@ O URL ultiliza Query Params, sendo que os parâmetros foram programados para res
 
 ## Acesso ao projeto:
 
-https://prova-estagio-2022.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe
-
+https://prova-estagio-2022.herokuapp.com/dashcommercetest?user=dashcommerce&password=chooseMe  
+  
+  
+https://prova-estagio-2022.herokuapp.com/dashcommercetest?u  
 ## Considerações Finais:
 
 Esse teste foi um desafio para mim. Tive de enteder do zero a como contruir uma API, começando do mais básico:
